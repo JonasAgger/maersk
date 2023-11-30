@@ -1,0 +1,1 @@
+rm -rf /root/cc/fs/* && cargo run --quiet --release -- pull library/ubuntu
